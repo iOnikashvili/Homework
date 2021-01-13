@@ -1,0 +1,19 @@
+C:\Users\pkiri\Downloads\oop-photoenhancer\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csprojAssemblyReference.cache
+C:\Users\pkiri\Downloads\oop-photoenhancer\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.MainForm.resources
+C:\Users\pkiri\Downloads\oop-photoenhancer\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.Properties.Resources.resources
+C:\Users\pkiri\Downloads\oop-photoenhancer\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csproj.GenerateResource.cache
+C:\Users\pkiri\Downloads\oop-photoenhancer\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csproj.CoreCompileInputs.cache
+C:\Users\pkiri\Downloads\oop-photoenhancer\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.exe.config
+C:\Users\pkiri\Downloads\oop-photoenhancer\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.exe
+C:\Users\pkiri\Downloads\oop-photoenhancer\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.pdb
+C:\Users\pkiri\Downloads\oop-photoenhancer\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.exe
+C:\Users\pkiri\Downloads\oop-photoenhancer\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.pdb
+C:\Users\Onika\OneDrive\Рабочий стол\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.exe.config
+C:\Users\Onika\OneDrive\Рабочий стол\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.exe
+C:\Users\Onika\OneDrive\Рабочий стол\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.pdb
+C:\Users\Onika\OneDrive\Рабочий стол\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csprojAssemblyReference.cache
+C:\Users\Onika\OneDrive\Рабочий стол\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.MainForm.resources
+C:\Users\Onika\OneDrive\Рабочий стол\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.Properties.Resources.resources
+C:\Users\Onika\OneDrive\Рабочий стол\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csproj.GenerateResource.cache
+C:\Users\Onika\OneDrive\Рабочий стол\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.exe
+C:\Users\Onika\OneDrive\Рабочий стол\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.pdb
