@@ -1,0 +1,11 @@
+C:\Users\suhom\Desktop\examen\oop\Failures\Failures\bin\Debug\Falures.dll
+C:\Users\suhom\Desktop\examen\oop\Failures\Failures\bin\Debug\Falures.pdb
+C:\Users\suhom\Desktop\examen\oop\Failures\Failures\obj\Debug\Failures.csprojAssemblyReference.cache
+C:\Users\suhom\Desktop\examen\oop\Failures\Failures\obj\Debug\Failures.csproj.CoreCompileInputs.cache
+C:\Users\suhom\Desktop\examen\oop\Failures\Failures\obj\Debug\Falures.dll
+C:\Users\suhom\Desktop\examen\oop\Failures\Failures\obj\Debug\Falures.pdb
+C:\Users\Onika\OneDrive\Рабочий стол\Failures\Failures\bin\Debug\Falures.dll
+C:\Users\Onika\OneDrive\Рабочий стол\Failures\Failures\bin\Debug\Falures.pdb
+C:\Users\Onika\OneDrive\Рабочий стол\Failures\Failures\obj\Debug\Failures.csprojAssemblyReference.cache
+C:\Users\Onika\OneDrive\Рабочий стол\Failures\Failures\obj\Debug\Falures.dll
+C:\Users\Onika\OneDrive\Рабочий стол\Failures\Failures\obj\Debug\Falures.pdb
